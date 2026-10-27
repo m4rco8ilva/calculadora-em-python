@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Web Moderna",
+  "description": "Calculadora web moderna, rápida e elegante com as quatro operações básicas, modo científico, histórico interativo e suporte completo a teclado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
